@@ -1,5 +1,5 @@
 %% Author : Nitesh Kumar IIIT Bangalore %%
-
+%% Neural Network to learn xor function using sigmoidal functions %%
 %% Initialize %%
 inputs = [-1, 0, 0; -1, 0, 1; -1, 1, 0; -1, 1, 1];
 outputs = [0; 1; 1; 0];
